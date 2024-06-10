@@ -1,3 +1,5 @@
+# Pace Challenge 2024 Solver CRGone
+
 ```
 git submodule update --init --recursive
 mkdir build
