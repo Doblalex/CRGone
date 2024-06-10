@@ -7,4 +7,4 @@ make -j4
 ./olcmexact < input.gr
 ```
 
-Do use too many threads for `make` as scip will get stuck.
+Do not use too many threads for `make` as scip will get stuck.
