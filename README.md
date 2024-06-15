@@ -1,9 +1,11 @@
 # Pace Challenge 2024 Solver CRGone
 
+Requirements: [gmp](https://gmplib.org/#DOWNLOAD)
+
 ```
 git submodule update --init --recursive
 mkdir build
-cd buid
+cd build
 cmake ..
 make -j4
 ./olcmexact < input.gr
